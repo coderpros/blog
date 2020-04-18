@@ -48,10 +48,8 @@ namespace Elmah.Blog.Identity.UI
 
             services.AddAuthentication().AddFacebook(o =>
                 {
-                    // o.AppId = this.Configuration["Authentication:CoderPro:Facebook:AppId"];
-                    // o.AppSecret = this.Configuration["Authentication:CoderPro:Facebook:AppSecret"];
-                    o.AppId = "1234";
-                    o.AppSecret = "1234";
+                    o.AppId = this.Configuration["Authentication:CoderPro:Facebook:AppId"];
+                    o.AppSecret = this.Configuration["Authentication:CoderPro:Facebook:AppSecret"];
                 });
 
             // Add Email Service
