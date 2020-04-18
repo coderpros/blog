@@ -1,0 +1,45 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoViewPage<USD.Umbraco.Article3.UI.Models.LoginViewModel>
+
+<div class="container">
+    @using (Html.BeginUmbracoForm(
+        @"Login",
+        @"Authentication",
+        System.Web.Mvc.FormMethod.Post,
+        new { id = "loginForm" }))
+    {
+        @Html.AntiForgeryToken()
+        <input type="hidden" name="ReturnUrl" value="@this.Request.RawUrl" />
+
+        <div class="row">
+            <div class="col-md-3">
+                <div class="form-group">
+                    @Html.LabelFor(m => m.Username)
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="form-group">
+                    @Html.TextBoxFor(m => m.Username, new { placeholder = "Username", @class="form-control" })
+                    @Html.ValidationMessageFor(m => m.Username)
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <div class="form-group">
+                    @Html.LabelFor(m => m.Password)
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="form-group">
+                    @Html.PasswordFor(m => m.Password, new { placeholder = "Password", @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.Username)
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <button name="login" id="login" type="submit" class="btn btn-primary">Login</button>
+            </div>
+        </div>
+    }
+</div>
