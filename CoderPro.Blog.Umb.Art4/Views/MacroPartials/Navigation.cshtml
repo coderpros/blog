@@ -1,0 +1,23 @@
+﻿@inherits Umbraco.Web.Macros.PartialViewMacroPage
+@using Umbraco.Web
+
+@{ var selection = Model.Content.Root().Children.Where(x => x.IsVisible() && (bool)x.GetProperty("hideFromNavigationMenu").Value() == false).ToArray(); }
+
+<div class="collapse navbar-collapse" id="navbarsExampleDefault">
+    <ul class="navbar-nav mr-auto">
+        <li class="nav-item" @(Model.Content.Root().IsAncestorOrSelf(Model.Content) ? "active" : null)>
+            <a class="nav-link" href="@Model.Content.Root().Url">@Model.Content.Root().Name</a>
+        </li>
+
+        @if (selection.Length > 0)
+        {
+            foreach (var item in selection)
+            {
+                <li class="nav-item @(item.IsAncestorOrSelf(Model.Content) ? "active" : null)">
+                    <a class="nav-link" href="@item.Url">@item.Name</a>
+                </li>
+            }
+        }
+    </ul>
+    @Html.Partial(@"~/Views/Partials/_LoginHeader.cshtml")
+</div>
