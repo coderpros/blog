@@ -5286,9 +5286,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\CoderPro.Blog\\CoderPro.Blog.Identity\\CoderPro.Blog.Identity.csproj",
-      "projectName": "CoderPro.Blog.Identity",
-      "projectPath": "D:\\Projects\\CoderPro.Blog\\CoderPro.Blog.Identity\\CoderPro.Blog.Identity.csproj",
+      "projectUniqueName": "D:\\Projects\\CoderPro.Blog\\CoderPro.Blog.Identity\\CoderPro.Blog.Core3.Identity.csproj",
+      "projectName": "CoderPro.Blog.Core3.Identity",
+      "projectPath": "D:\\Projects\\CoderPro.Blog\\CoderPro.Blog.Identity\\CoderPro.Blog.Core3.Identity.csproj",
       "packagesPath": "C:\\Users\\BrandonOsborne\\.nuget\\packages\\",
       "outputPath": "D:\\Projects\\CoderPro.Blog\\CoderPro.Blog.Identity\\obj\\",
       "projectStyle": "PackageReference",

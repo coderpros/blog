@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zLGnot2vcILKg7d1A0mbNFsKIeG04ANGZWUwaDeGi23lDLiCBJGkfLPvRDbIMnDNu/ZmVa2ykJT9FV1sNGJNPA==",
+  "dgSpecHash": "TqvhEI7eJGbv/X4J/HWlsNECiKpDlpMpDNDMAt0H6qxbaKHU6PjmZRx3CAZ+HGabMw+bwNQR1quMlhtO/M/AcA==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\CoderPro.Blog\\CoderPro.Blog.Identity\\CoderPro.Blog.Identity.csproj",
+  "projectFilePath": "D:\\Projects\\CoderPro.Blog\\CoderPro.Blog.Identity\\CoderPro.Blog.Core3.Identity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BrandonOsborne\\.nuget\\packages\\microsoft.aspnetcore.authentication.facebook\\3.0.0\\microsoft.aspnetcore.authentication.facebook.3.0.0.nupkg.sha512",
     "C:\\Users\\BrandonOsborne\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.0.0\\microsoft.aspnetcore.cryptography.internal.3.0.0.nupkg.sha512",

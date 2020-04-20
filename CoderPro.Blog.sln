@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoderPro.Blog.Umb.Art3", "C
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8006337C-E56A-4046-B75F-875850955D8F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoderPro.Blog.Identity", "CoderPro.Blog.Identity\CoderPro.Blog.Identity.csproj", "{1D684D2B-A41F-463D-928C-CB4FEC4F0927}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoderPro.Blog.Core3.Identity", "CoderPro.Blog.Identity\CoderPro.Blog.Core3.Identity.csproj", "{1D684D2B-A41F-463D-928C-CB4FEC4F0927}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USD.Umbraco.Article2.UI", "CoderPro.Blog.Umb.Art2\USD.Umbraco.Article2.UI.csproj", "{643F1BE7-73CD-473D-8991-876E3A242A40}"
 EndProject
