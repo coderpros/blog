@@ -1,4 +1,4 @@
-﻿namespace USD.Umbraco.Article1.UI
+﻿namespace CoderPro.Blog.Umb.Art1
 {
     using System.Web.Mvc;
     using System.Web.Routing;

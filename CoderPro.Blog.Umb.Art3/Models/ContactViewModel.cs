@@ -1,7 +1,6 @@
-﻿namespace USD.Umbraco.Article3.UI.Models
+﻿namespace CoderPro.Blog.Umb.Art3.Models
 {
     using System.ComponentModel.DataAnnotations;
-
     public class ContactViewModel
     {
         [MinLength(2), MaxLength(25)]

@@ -1,6 +1,6 @@
 ﻿@inherits Umbraco.Web.Macros.PartialViewMacroPage
 @{
-    var contactModel = new USD.Umbraco.Article3.UI.Models.ContactViewModel() { FromEmailAddress = this.Model.MacroParameters["replyTo"].ToString() };
+    var contactModel = new CoderPro.Blog.Umb.Art3.Models.ContactViewModel() { FromEmailAddress = this.Model.MacroParameters["replyTo"].ToString() };
 
     contactModel.FromEmailAddress = this.Model.MacroParameters["replyTo"].ToString();
 }

@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
-namespace USD.Umbraco.Article3.UI.Models
+namespace CoderPro.Blog.Umb.Art3.Models
 {
     public class LoginViewModel
     {

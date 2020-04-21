@@ -7,7 +7,7 @@
 // </summary>
 // --------------------------------------------------------------------------------------------------------------------
 
-namespace USD.Umbraco.Article3.UI
+namespace CoderPro.Blog.Umb.Art3
 {
     using global::Umbraco.Core;
     using global::Umbraco.Core.Composing;

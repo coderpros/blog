@@ -1,4 +1,4 @@
-﻿namespace USD.Umbraco.Article2.UI.Models
+﻿namespace CoderPro.Blog.Umb.Art2.Models
 {
     using System.ComponentModel.DataAnnotations;
 

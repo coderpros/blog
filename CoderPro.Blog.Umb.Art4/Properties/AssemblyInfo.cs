@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Umbraco Article 2")]
+[assembly: AssemblyTitle("CoderPro.Blog.Umb.Art4")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("coderPro.net")]
-[assembly: AssemblyProduct("Umbraco Articles")]
-[assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("CoderPro.Blog.Umb.Art4")]
+[assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("5ea9d56c-78d9-4428-89db-c86e7c64e96f")]
+[assembly: Guid("f38631e8-0cae-48ef-ae5e-349d99159597")]
 
 // Version information for an assembly consists of the following four values:
 //

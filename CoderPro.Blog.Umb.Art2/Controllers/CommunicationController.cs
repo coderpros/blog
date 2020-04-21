@@ -7,7 +7,7 @@
 // </summary>
 // --------------------------------------------------------------------------------------------------------------------
 
-namespace USD.Umbraco.Article2.UI.Controllers
+namespace CoderPro.Blog.Umb.Art2.Controllers
 {
     using System.Net.Mail;
     using System.Web.Mvc;

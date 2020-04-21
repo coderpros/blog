@@ -3,9 +3,9 @@ using System.Web.Mvc;
 using System.Web.Security;
 using Umbraco.Web.Mvc;
 
-using USD.Umbraco.Article3.UI.Models;
+using CoderPro.Blog.Umb.Art3.Models;
 
-namespace USD.Umbraco.Article3.UI.Controllers
+namespace CoderPro.Blog.Umb.Art3.Controllers
 {
     public class AuthenticationController : SurfaceController
     {

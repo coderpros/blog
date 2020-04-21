@@ -224,6 +224,7 @@ D:\Projects\USD\Code\USD\USD.Umbraco.Article3.UI\bin\tr\Microsoft.CodeAnalysis.C
 D:\Projects\USD\Code\USD\USD.Umbraco.Article3.UI\bin\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
 D:\Projects\USD\Code\USD\USD.Umbraco.Article3.UI\bin\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
 D:\Projects\USD\Code\USD\USD.Umbraco.Article3.UI\obj\Debug\USD.Umbraco.Article3.UI.csprojAssemblyReference.cache
+D:\Projects\USD\Code\USD\USD.Umbraco.Article3.UI\obj\Debug\USD.Umbraco.Article3.UI.csproj.CoreCompileInputs.cache
 D:\Projects\USD\Code\USD\USD.Umbraco.Article3.UI\obj\Debug\USD.Umbraco.Article3.UI.csproj.CopyComplete
 D:\Projects\USD\Code\USD\USD.Umbraco.Article3.UI\bin\USD.Umbraco.Article3.UI.dll.config
 D:\Projects\USD\Code\USD\USD.Umbraco.Article3.UI\bin\USD.Umbraco.Article3.UI.dll

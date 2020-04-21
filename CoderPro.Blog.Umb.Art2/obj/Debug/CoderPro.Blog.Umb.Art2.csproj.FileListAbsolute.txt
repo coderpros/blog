@@ -14,9 +14,6 @@ D:\Projects\CoderPro.Blog\CoderPro.Blog.Umb.Art2\bin\x86\sqlceer40EN.dll
 D:\Projects\CoderPro.Blog\CoderPro.Blog.Umb.Art2\bin\x86\sqlceme40.dll
 D:\Projects\CoderPro.Blog\CoderPro.Blog.Umb.Art2\bin\x86\sqlceqp40.dll
 D:\Projects\CoderPro.Blog\CoderPro.Blog.Umb.Art2\bin\x86\sqlcese40.dll
-D:\Projects\CoderPro.Blog\CoderPro.Blog.Umb.Art2\bin\USD.Umbraco.Article2.UI.dll.config
-D:\Projects\CoderPro.Blog\CoderPro.Blog.Umb.Art2\bin\USD.Umbraco.Article2.UI.dll
-D:\Projects\CoderPro.Blog\CoderPro.Blog.Umb.Art2\bin\USD.Umbraco.Article2.UI.pdb
 D:\Projects\CoderPro.Blog\CoderPro.Blog.Umb.Art2\bin\roslyn\csc.exe
 D:\Projects\CoderPro.Blog\CoderPro.Blog.Umb.Art2\bin\roslyn\csc.exe.config
 D:\Projects\CoderPro.Blog\CoderPro.Blog.Umb.Art2\bin\roslyn\csc.rsp
@@ -229,5 +226,8 @@ D:\Projects\CoderPro.Blog\CoderPro.Blog.Umb.Art2\bin\zh-Hant\Microsoft.CodeAnaly
 D:\Projects\CoderPro.Blog\CoderPro.Blog.Umb.Art2\obj\Debug\CoderPro.Blog.Umb.Art2.csprojAssemblyReference.cache
 D:\Projects\CoderPro.Blog\CoderPro.Blog.Umb.Art2\obj\Debug\CoderPro.Blog.Umb.Art2.csproj.CoreCompileInputs.cache
 D:\Projects\CoderPro.Blog\CoderPro.Blog.Umb.Art2\obj\Debug\CoderPro.Blog.Umb.Art2.csproj.CopyComplete
-D:\Projects\CoderPro.Blog\CoderPro.Blog.Umb.Art2\obj\Debug\USD.Umbraco.Article2.UI.dll
-D:\Projects\CoderPro.Blog\CoderPro.Blog.Umb.Art2\obj\Debug\USD.Umbraco.Article2.UI.pdb
+D:\Projects\CoderPro.Blog\CoderPro.Blog.Umb.Art2\bin\CoderPro.Blog.Umb.Art2.dll.config
+D:\Projects\CoderPro.Blog\CoderPro.Blog.Umb.Art2\bin\CoderPro.Blog.Umb.Art2.dll
+D:\Projects\CoderPro.Blog\CoderPro.Blog.Umb.Art2\bin\CoderPro.Blog.Umb.Art2.pdb
+D:\Projects\CoderPro.Blog\CoderPro.Blog.Umb.Art2\obj\Debug\CoderPro.Blog.Umb.Art2.dll
+D:\Projects\CoderPro.Blog\CoderPro.Blog.Umb.Art2\obj\Debug\CoderPro.Blog.Umb.Art2.pdb
