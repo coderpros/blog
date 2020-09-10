@@ -13,16 +13,16 @@
 > This repository contains the source code for all of the blog posts from coderpro.net.
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/coderpros/kickbox-asp.svg?style=flat-square
-[contributors-url]: https://github.com/coderpros/kickbox-asp/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/coderpros/kickbox-asp?style=flat-square
-[forks-url]: https://github.com/coderpros/kickbox-asp/network/members
-[stars-shield]: https://img.shields.io/github/stars/coderpros/kickbox-asp.svg?style=flat-square
-[stars-url]: https://github.com/coderpros/kickbox-asp/stargazers
-[issues-shield]: https://img.shields.io/github/issues/coderpros/kickbox-asp?style=flat-square
-[issues-url]: https://github.com/coderpros/kickbox-asp/issues
-[license-shield]: https://img.shields.io/github/license/coderpros/kickbox-asp?style=flat-square
-[license-url]: https://github.com/coderpros/kickbox-asp/master/blog/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/coderpros/blog.svg?style=flat-square
+[contributors-url]: https://github.com/coderpros/blog/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/coderpros/blog?style=flat-square
+[forks-url]: https://github.com/coderpros/blog/network/members
+[stars-shield]: https://img.shields.io/github/stars/coderpros/blog.svg?style=flat-square
+[stars-url]: https://github.com/coderpros/blog/stargazers
+[issues-shield]: https://img.shields.io/github/issues/coderpros/blog?style=flat-square
+[issues-url]: https://github.com/coderpros/blog/issues
+[license-shield]: https://img.shields.io/github/license/coderpros/blog?style=flat-square
+[license-url]: https://github.com/coderpros/blog/master/blog/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/company/coderpros
 [twitter-shield]: https://img.shields.io/twitter/follow/coderpronet?style=social
