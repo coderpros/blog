@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30011.22
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoderPro.Blog.Umb.Art1", "CoderPro.Blog.Umb.Art1\CoderPro.Blog.Umb.Art1.csproj", "{5EA9D56C-78D9-4428-89DB-C86E7C64E96F}"
 EndProject
@@ -16,6 +16,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoderPro.Blog.Umb.Art4", "CoderPro.Blog.Umb.Art4\CoderPro.Blog.Umb.Art4.csproj", "{F38631E8-0CAE-48EF-AE5E-349D99159597}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CoderPro.Blog.Python.Mailer", "CoderPro.Blog.Python.Mailer\CoderPro.Blog.Python.Mailer.pyproj", "{B160F56D-33E2-4F54-8C55-B669AF01BC1F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CoderPro.Blog.Python.Console", "CoderPro.Blog.Python.Console\CoderPro.Blog.Python.Console.pyproj", "{240429D2-6E34-4462-85BE-3C8935C6BF8C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Testing", "Testing\Testing.csproj", "{647DE3D2-F1CD-4698-AABA-FEB5CECCA54F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoderPro.Blog.Networking", "CoderPro.Blog.Networking\CoderPro.Blog.Networking.csproj", "{7DC8851F-4335-4E2E-A708-987C11082CF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,16 @@ Global
 		{F38631E8-0CAE-48EF-AE5E-349D99159597}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B160F56D-33E2-4F54-8C55-B669AF01BC1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B160F56D-33E2-4F54-8C55-B669AF01BC1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{240429D2-6E34-4462-85BE-3C8935C6BF8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{240429D2-6E34-4462-85BE-3C8935C6BF8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{647DE3D2-F1CD-4698-AABA-FEB5CECCA54F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{647DE3D2-F1CD-4698-AABA-FEB5CECCA54F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{647DE3D2-F1CD-4698-AABA-FEB5CECCA54F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{647DE3D2-F1CD-4698-AABA-FEB5CECCA54F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DC8851F-4335-4E2E-A708-987C11082CF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC8851F-4335-4E2E-A708-987C11082CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC8851F-4335-4E2E-A708-987C11082CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC8851F-4335-4E2E-A708-987C11082CF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

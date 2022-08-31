@@ -1,4 +1,3 @@
-
 function Convert-Images {
     param (
         [string]$inputDirectory, 
